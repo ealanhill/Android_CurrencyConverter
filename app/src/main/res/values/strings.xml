@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string name="action_settings">Settings</string>
+    <string name="currency_question">Please enter the USD amount you would like to convert to GBP:</string>
+</resources>
